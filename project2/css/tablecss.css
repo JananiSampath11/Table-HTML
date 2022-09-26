@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin:0;
+    width:100%;
+}
+.hi{
+    margin-top: 0;
+    font-size:38px;
+    color:gray;
+    font-weight: bold;
+}
+.objective{
+   line-height: 22px;
+}
+.def{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding-top:30px;
+}
+#attach{
+    padding-right:10px;
+}
+#mail{
+    padding-right:10px;
+}
